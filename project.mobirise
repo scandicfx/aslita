@@ -751,9 +751,10 @@
           "_anchor": "map1-b",
           "_params": {
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "10 & 12 Jalan 2/10B,\nSpring Crest Industrial Park",
+              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
+              "state": "ok",
+              "stateDetails": ""
             }
           }
         },
@@ -792,7 +793,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">Contact Us</a><br>"
         }
       ]
@@ -1092,7 +1093,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">Contact Us</a><br>"
         }
       ]
@@ -1306,7 +1307,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">Contact Us</a><br>"
         }
       ]
@@ -1520,7 +1521,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">Contact Us</a><br>"
         }
       ]
@@ -1820,7 +1821,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone:&nbsp;<br>\nFax:&nbsp;",
+          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">Contact Us</a><br>"
         }
       ]
