@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aslita",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -431,8 +431,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "bookmark",
-              "family": "MobiriseIcons",
+              "name": "documents",
+              "family": "et-line",
               "active": true,
               "link": "about.html#features6-e",
               "size": 0,
@@ -441,7 +441,7 @@
           },
           "title1": "Pre Press",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Heldelberg - Prosetter (CTP)<br>Plate Expose<br>Plate Processor<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -457,7 +457,7 @@
           },
           "title2": "Printing",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Toshiba Web<br>Heidelberg SM<br>Komori K5<br>Heidelberg SM CPC<br>Heidelberg SM Perfector<br>Mitsubishi - Daiya Perfector<br>Komori - LP44 Perfector<br>Heidelberg GT<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -473,7 +473,7 @@
           },
           "title3": "Jilid",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Sthall Folding Machine<br>Muller Martini<br>Muller Martini Saddle Stitch<br>PBM Perfect Bind<br>M.M Perfect Bind<br>Three Knife Cutter<br>Single Knife Cutter<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
