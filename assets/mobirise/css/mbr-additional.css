@@ -764,6 +764,9 @@ h6,
 #header3-h .mbr-section-subtitle {
   text-align: center;
 }
+#contacts1-c P {
+  color: #ffffff;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -836,6 +839,9 @@ h6,
 #features2-n .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#contacts1-2 P {
+  color: #ffffff;
+}
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -904,73 +910,8 @@ h6,
 #form1-t .form-control-label {
   color: #232323;
 }
-#ext_menu-u .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-u .navbar-caption {
+#contacts1-s P {
   color: #ffffff;
-}
-#ext_menu-u .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-u .close-icon::before,
-#ext_menu-u .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-u .link,
-#ext_menu-u .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-u .link {
-  font-size: 0.75rem;
-}
-#ext_menu-u .dropdown-item,
-#ext_menu-u .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-u .link:hover,
-#ext_menu-u .dropdown-item:hover,
-#ext_menu-u .link:focus,
-#ext_menu-u .dropdown-item:focus {
-  color: #e25041;
-}
-#ext_menu-u .link[aria-expanded="true"],
-#ext_menu-u .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-u .nav-dropdown-sm .link:focus,
-#ext_menu-u .nav-dropdown-sm .link:hover,
-#ext_menu-u .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-u .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-u .navbar,
-#ext_menu-u .nav-dropdown-sm,
-#ext_menu-u .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-u .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-u .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-u .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-u .bg-color.transparent.opened .link:hover,
-#ext_menu-u .bg-color.transparent.opened .link:focus {
-  color: #e25041;
-}
-#ext_menu-u .link[aria-expanded="true"],
-#ext_menu-u .dropdown-item[aria-expanded="true"] {
-  color: #e25041!important;
-}
-#header3-v .mbr-section-title,
-#header3-v .mbr-section-subtitle {
-  text-align: center;
-}
-#form1-w .form-control-label {
-  color: #232323;
 }
 #ext_menu-y .hide-buttons .nav-btn {
   display: none !important;
@@ -1043,4 +984,78 @@ h6,
 }
 #features2-11 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#contacts1-12 P {
+  color: #ffffff;
+}
+#ext_menu-u .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-u .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-u .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-u .close-icon::before,
+#ext_menu-u .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-u .link,
+#ext_menu-u .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-u .link {
+  font-size: 0.75rem;
+}
+#ext_menu-u .dropdown-item,
+#ext_menu-u .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-u .link:hover,
+#ext_menu-u .dropdown-item:hover,
+#ext_menu-u .link:focus,
+#ext_menu-u .dropdown-item:focus {
+  color: #e25041;
+}
+#ext_menu-u .link[aria-expanded="true"],
+#ext_menu-u .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-u .nav-dropdown-sm .link:focus,
+#ext_menu-u .nav-dropdown-sm .link:hover,
+#ext_menu-u .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-u .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-u .navbar,
+#ext_menu-u .nav-dropdown-sm,
+#ext_menu-u .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-u .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-u .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-u .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-u .bg-color.transparent.opened .link:hover,
+#ext_menu-u .bg-color.transparent.opened .link:focus {
+  color: #e25041;
+}
+#ext_menu-u .link[aria-expanded="true"],
+#ext_menu-u .dropdown-item[aria-expanded="true"] {
+  color: #e25041!important;
+}
+#header3-v .mbr-section-title,
+#header3-v .mbr-section-subtitle {
+  text-align: center;
+}
+#form1-w .form-control-label {
+  color: #232323;
+}
+#contacts1-x P {
+  color: #ffffff;
 }
