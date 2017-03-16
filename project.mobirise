@@ -112,7 +112,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logoedit-269x128.png",
+              "src": "@PROJECT_PATH@/assets/images/aslitalogo2-166x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -784,7 +784,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoedit-128x60.png",
+              "src": "@PROJECT_PATH@/assets/images/aslitalogo2-128x98.png",
               "width": 128,
               "active": true,
               "link": "",
