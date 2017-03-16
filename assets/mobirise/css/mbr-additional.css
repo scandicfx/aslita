@@ -760,6 +760,12 @@ h6,
 #header3-j .mbr-section-subtitle {
   text-align: center;
 }
+#features1-1a .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-1a .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
