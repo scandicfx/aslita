@@ -765,10 +765,20 @@ h6,
 }
 #features1-1a .mbr-cards-col:nth-child(odd) .card-title {
   color: #000000;
+  font-size: 12px;
+}
+#features1-1a .mbr-cards-col:nth-child(even) .card-title {
+  font-size: 12px;
 }
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
+}
+#features3-1b H4 {
+  font-size: 12px;
+}
+#features3-1c H4 {
+  font-size: 12px;
 }
 #contacts1-c P {
   color: #ffffff;
