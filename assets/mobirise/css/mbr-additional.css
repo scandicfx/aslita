@@ -1141,13 +1141,9 @@ h6,
 #ext_menu-1h .dropdown-item[aria-expanded="true"] {
   color: #e25041!important;
 }
-#header3-1i .mbr-section-title,
-#header3-1i .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1l .mbr-section-title,
-#header3-1l .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-1n .mbr-section-title,
+#msg-box8-1n p {
+  color: #fff;
 }
 #contacts1-1k P {
   color: #ffffff;
