@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aslita Sdn Bhd - Experienced In Printing",
-    "currentPage": "carreer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -247,8 +247,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "cash-register",
-              "family": "iconsMind",
+              "name": "full-cart",
+              "family": "icon54",
               "active": true,
               "link": "index.html#features6-1d",
               "size": 0,
