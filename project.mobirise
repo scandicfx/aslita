@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aslita Sdn Bhd - Experienced In Printing",
-    "currentPage": "index.html",
+    "currentPage": "carreer.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -502,6 +502,14 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features6-e",
           "_params": {
             "paddingTop": "1",
@@ -614,15 +622,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H4": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -1066,28 +1066,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-b",
-          "_params": {
-            "googleMap": {
-              "address": "10 & 12 Jalan 2/10B,\nSpring Crest Industrial Park",
-              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-c",
+          "_name": "contacts2",
+          "_anchor": "contacts2-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1098,27 +1078,21 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/aslitalogo2-128x98.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "12 Jalan 2/10B, Spring Crest Industrial Park",
+              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
-          "text3": "<strong>Links</strong><br>Contact Us<br>"
+          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br>Selangor Darul Ehsan,<br>Malaysia<br><br><br>\n<strong>Contacts</strong><br>Email: info@aslita.com<br>Phone: (6)03-6186 7645<br>Fax: (6)03-6186 7635<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"carreer.html\">Career</a></li><br></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9"
+            }
+          }
         }
       ]
     },
@@ -1388,13 +1362,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-2",
+          "_name": "contacts2",
+          "_anchor": "contacts2-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1405,27 +1374,21 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoedit-128x60.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "12 Jalan 2/10B, Spring Crest Industrial Park",
+              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
-          "text3": "<strong>Links</strong><br>Contact Us<br>"
+          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br>Selangor Darul Ehsan,<br>Malaysia<br><br><br>\n<strong>Contacts</strong><br>Email: info@aslita.com<br>Phone: (6)03-6186 7645<br>Fax: (6)03-6186 7635<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"carreer.html\">Career</a></li><br></ul>",
+          "_styles": {
+            "UL": {
+              "color": "#3d8eb9"
+            }
+          }
         }
       ]
     },
@@ -1607,13 +1570,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts2",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
+            "UL": {
+              "color": "#3d8eb9"
             }
           },
-          "_anchor": "contacts1-s",
+          "_anchor": "contacts2-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1624,27 +1587,16 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoedit-128x60.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "12 Jalan 2/10B, Spring Crest Industrial Park",
+              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
-          "text3": "<strong>Links</strong><br>Contact Us<br>"
+          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br>Selangor Darul Ehsan,<br>Malaysia<br><br><br>\n<strong>Contacts</strong><br>Email: info@aslita.com<br>Phone: (6)03-6186 7645<br>Fax: (6)03-6186 7635<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"carreer.html\">Career</a></li><br></ul>"
         }
       ]
     },
@@ -2134,13 +2086,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts2",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
+            "UL": {
+              "color": "#3d8eb9"
             }
           },
-          "_anchor": "contacts1-x",
+          "_anchor": "contacts2-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2151,27 +2103,16 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoedit-128x60.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "12 Jalan 2/10B, Spring Crest Industrial Park",
+              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
-          "text3": "<strong>Links</strong><br>Contact Us<br>"
+          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br>Selangor Darul Ehsan,<br>Malaysia<br><br><br>\n<strong>Contacts</strong><br>Email: info@aslita.com<br>Phone: (6)03-6186 7645<br>Fax: (6)03-6186 7635<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"carreer.html\">Career</a></li><br></ul>"
         }
       ]
     },
@@ -2326,13 +2267,13 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
+          "_name": "contacts2",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
+            "UL": {
+              "color": "#3d8eb9"
             }
           },
-          "_anchor": "contacts1-1k",
+          "_anchor": "contacts2-1o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2343,27 +2284,16 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logoedit-128x60.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "12 Jalan 2/10B, Spring Crest Industrial Park",
+              "placeId": "ChIJVflVgqFHzDERnsFzRpsVj54",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br> Selangor Darul Ehsan,<br>Malaysia<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@aslita.com<br>\nPhone: (6)03-6186 7645<br>\nFax: (6)03-6186 7635",
-          "text3": "<strong>Links</strong><br>Contact Us<br>"
+          "text1": "<strong>Address</strong><br>No 10 &amp; 12 Jalan 2/10B,<br>Spring Crest Industrial Park,<br>68100 Batu Caves,<br>Selangor Darul Ehsan,<br>Malaysia<br><br><br>\n<strong>Contacts</strong><br>Email: info@aslita.com<br>Phone: (6)03-6186 7645<br>Fax: (6)03-6186 7635<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"contact.html\">Contact Us</a></li><li><a href=\"carreer.html\">Career</a></li><br></ul>"
         }
       ]
     }
